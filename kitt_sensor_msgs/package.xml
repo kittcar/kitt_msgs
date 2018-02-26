@@ -1,9 +1,9 @@
 <package>
-  <name>victoria_sensor_msgs</name>
+  <name>kitt_sensor_msgs</name>
   <version>0.1.0</version>
   <description>
-    This package defines messages used for sensors in the Victoria robot.</description>
-  <maintainer email="mwomack@gmail.com">Mark Womack</maintainer>
+    This package defines messages used for sensors in kitt.</description>
+  <maintainer email="elcokiran@gmail.com">Kiran Mohan</maintainer>
   <license>MIT</license>
 
   <buildtool_depend>catkin</buildtool_depend>

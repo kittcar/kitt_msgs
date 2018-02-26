@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(victoria_sensor_msgs)
+project(kitt_sensor_msgs)
 
 find_package(catkin REQUIRED
   COMPONENTS

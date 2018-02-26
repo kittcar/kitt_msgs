@@ -1,6 +1,5 @@
 # This message contains various debug data
-# from the Teensy microcontroller for the
-# Victoria robot.
+# from the Teensy microcontroller for kitt
 
 # True if trex motor controller encountered error at startup.
 bool trex_err

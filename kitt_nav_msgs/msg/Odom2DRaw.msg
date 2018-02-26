@@ -8,4 +8,4 @@
 Header header
 string child_frame_id
 geometry_msgs/Pose2D pose
-victoria_nav_msgs/Twist2D twist
+kitt_nav_msgs/Twist2D twist
