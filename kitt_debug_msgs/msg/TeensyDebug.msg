@@ -1,9 +1,6 @@
 # This message contains various debug data
 # from the Teensy microcontroller for kitt
 
-# True if trex motor controller encountered error at startup.
-bool trex_err
-
 # True of imu encountered error at startup.
 bool imu_err
 
